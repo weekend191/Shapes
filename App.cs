@@ -6,7 +6,7 @@ namespace Shapes
     {
         public App()
         {
-            Console.WriteLine("Constructing the App");
+            Console.Foreground
 
         }
 
